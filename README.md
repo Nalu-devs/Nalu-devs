@@ -26,7 +26,7 @@
     - Técnica em Informática para internet pela Etec
     - Técnica em seguraça de redes pelo Senai
     - Medalhista de bronze nas Olimpiadas Brasileiras de Matemática de Escolas Publicas OBMEP
-    - Certificados de aula destaque por mais de 5 bimestres seguidos</p>
+    - Certificados de aula destaque por mais de 5 bimestres seguidos
 
 ###
 
