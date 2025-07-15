@@ -19,14 +19,14 @@ Objetivos:
     - Ser reconhecida pelo meu trabalho
     - Evoluir cada vez mais nessa área
     
-🎲Curiosidades:
+Curiosidades:
 
     - Programadora desde 2019
     - Técnica em Desenvolvimento de sistemas pela Etec
     - Técnica em Informática para internet pela Etec
     - Técnica em seguraça de redes pelo Senai
     - Medalhista de bronze nas Olimpiadas Brasileiras de Matemática de Escolas Publicas OBMEP
-    - Certificados de aula destaque por mais de 5 bimestres seguidos
+    - Certificados de aluna destaque por mais de 5 bimestres seguidos
 
 ###
 
