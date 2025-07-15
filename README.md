@@ -17,7 +17,7 @@ Objetivos:
     - Aprender mais sobre tecnologia e inovação
     - Desenvolver sites importantes para o mundo
     - Ser reconhecida pelo meu trabalho
-    - Evoluir cada vez mais nessa área<br>
+    - Evoluir cada vez mais nessa área
     
 🎲Curiosidades:
 
