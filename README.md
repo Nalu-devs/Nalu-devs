@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Desenvolvedora de sites na web<br>
-📚Aprendendo mais sobre backand e banco de dados<br>
-🎯 Objetivos:
+<p align="left">Desenvolvedora de sites na web<br>
+Aprendendo mais sobre backend e banco de dados<br>
+Objetivos:
   
     - Aprender mais sobre tecnologia e inovação
     - Desenvolver sites importantes para o mundo
