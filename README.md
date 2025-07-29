@@ -26,8 +26,6 @@ Curiosidades:
     - Técnica em Informática para internet pela Etec
     - Técnica em seguraça de redes pelo Senai
     - Medalhista de bronze nas Olimpiadas Brasileiras de Matemática de Escolas Publicas OBMEP
-    - Certificados de aluna destaque por mais de 5 bimestres seguidos
-
 ###
 
 <h2 align="left">Plataformas que utilizo:</h2>
