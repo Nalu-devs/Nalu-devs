@@ -1,4 +1,4 @@
-<h1 align="left">Olá mundo 👋! Seja bem vindo</h1>
+<h1 align="left">Olá mundo! Seja bem vindo</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedora de sites na web<br>
+<p>Estudante de informática<br>
 Aprendendo mais sobre backend e banco de dados<br>
 Objetivos:
   
@@ -51,6 +51,9 @@ Curiosidades:
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
 </div>
+
+<h2 align="left"> E-mail para contato</h2>
+<p>ana.lucia.cavalcante.sirino@gmail.com</p>
 
 <h2 align="left">Redes Sociais:</h2>
 
