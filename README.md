@@ -7,7 +7,7 @@
 
 ### Minhas linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=dark&locale=pt-br)
 
 ###
 
