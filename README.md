@@ -4,6 +4,11 @@
 
 <p align="left">Meu nome é Ana Lu e eu sou uma estudante de tecnologia de back a front</p>
 
+
+### Minhas linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=dark)
+
 ###
 
 <h2 align="left">Sobre mim</h2>
