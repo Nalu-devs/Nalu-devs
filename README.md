@@ -15,7 +15,7 @@
 
 ###
 
-<p>Estudante de informática<br>
+Estudante de informática<br>
 Aprendendo mais sobre backend e banco de dados<br>
 Objetivos:
   
