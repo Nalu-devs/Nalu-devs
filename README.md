@@ -28,9 +28,10 @@
 
 ### Estatísticas do GitHub
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nalu-devs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nalu-devs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&custom_title=Estatísticas+de+commits"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&custom_title=Linguagens+mais+usadas"/>
 </div>
+
 
 ---
 
