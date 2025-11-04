@@ -1,77 +1,63 @@
-<h1 align="left">Olá mundo! Seja bem vindo</h1>
+<h1 align="center">
+  Olá, Mundo! Seja bem-vindo ao meu perfil
+</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=500&color=00f&center=true&vCenter=true&width=440&lines=Sou+a+Ana+Lu;Tecnologia+de+Back+a+Front;Apaixonada+por+inovação"/>
+</p>
 
-<p align="left">Meu nome é Ana Lu e eu sou uma estudante de tecnologia de back a front</p>
+---
 
+### Sobre mim
+- Estudante de **Informática para Internet**  
+- Focada em **backend, banco de dados e desenvolvimento web**  
+- **Objetivos:**
+  - Aprender mais sobre tecnologia e inovação  
+  - Desenvolver soluções que impactem o mundo  
+  - Ser reconhecida pelo meu trabalho  
+  - Evoluir constantemente nessa área  
 
-### Minhas linguagens mais usadas
+### Curiosidades
+- Programadora desde **2019**  
+- Técnica em **Desenvolvimento de Sistemas (ETEC)**  
+- Técnica em **Informática para Internet (ETEC)**  
+- Técnica em **Segurança de Redes (SENAI)**  
+- Medalhista de **bronze** na **OBMEP**
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=dark&locale=pt-br)
+---
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-Estudante de informática<br>
-Aprendendo mais sobre backend e banco de dados<br>
-Objetivos:
-  
-    - Aprender mais sobre tecnologia e inovação
-    - Desenvolver sites importantes para o mundo
-    - Ser reconhecida pelo meu trabalho
-    - Evoluir cada vez mais nessa área
-    
-Curiosidades:
-
-    - Programadora desde 2019
-    - Técnica em Desenvolvimento de sistemas pela Etec
-    - Técnica em Informática para internet pela Etec
-    - Técnica em seguraça de redes pelo Senai
-    - Medalhista de bronze nas Olimpiadas Brasileiras de Matemática de Escolas Publicas OBMEP
-###
-
-<h2 align="left">Plataformas que utilizo:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="php logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"  />
+### Estatísticas do GitHub
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nalu-devs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
-<h2 align="left"> E-mail para contato</h2>
-<p>ana.lucia.cavalcante.sirino@gmail.com</p>
+---
 
-<h2 align="left">Redes Sociais:</h2>
+### Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,cpp" />
+</div>
+
+---
+
+### Contato
+
+**E-mail:** [ana.lucia.cavalcante.sirino@gmail.com](mailto:ana.lucia.cavalcante.sirino@gmail.com)
 
 <div align="left">
-  <a href="www.linkedin.com/in/ana-sirino-952a8b33b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ana-sirino-952a8b33b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pretty._.ann3?igsh=MTVlaTU4N3pmbWpyag==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="40" alt="gmail logo"  />
+  <a href="mailto:ana.lucia.cavalcante.sirino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+Feito com dedicação e muito código por [Nalu-devs](https://github.com/Nalu-devs)
