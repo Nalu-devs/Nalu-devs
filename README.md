@@ -23,6 +23,7 @@
 - Técnica em **Informática para Internet (ETEC)**  
 - Técnica em **Segurança de Redes (SENAI)**  
 - Medalhista de **bronze** na **OBMEP**
+- Vencedora da bolsa 100% do programa da **Cisco - Segurança de rede**
 
 ---
 
