@@ -32,14 +32,15 @@
   <tr>
     <td style="border: none;">
       <img height="165em" 
-        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Nalu-devs&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estatísticas+de+Commits"/>
+        src="https://github-readme-stats.vercel.app/api?username=Nalu-devs&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Estatísticas+de+Commits"/>
     </td>
     <td style="border: none;">
       <img height="165em" 
-        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens+mais+usadas"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalu-devs&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens+mais+usadas"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
