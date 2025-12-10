@@ -9,13 +9,15 @@
 ---
 
 ### Sobre mim
-- Estudante de **Informática para Internet**  
-- Focada em **backend, banco de dados e desenvolvimento web**  
-- **Objetivos:**
-  - Aprender mais sobre tecnologia e inovação  
-  - Desenvolver soluções que impactem o mundo  
-  - Ser reconhecida pelo meu trabalho  
-  - Evoluir constantemente nessa área  
+- Estudante de **Informática para Internet**
+- Estudante de **Desenvolvimento de sistema** 
+- Focada em **backend, banco de dados e desenvolvimento web**
+ 
+### Objetivos:
+- Aprender mais sobre tecnologia e inovação  
+- Desenvolver soluções que impactem o mundo  
+- Ser reconhecida pelo meu trabalho  
+- Evoluir constantemente nessa área  
 
 ### Curiosidades
 - Programadora desde **2019**  
