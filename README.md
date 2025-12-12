@@ -32,7 +32,7 @@
 ### Linguagens e Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,cpp,react" />
 </div>
 
 ---
