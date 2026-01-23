@@ -42,7 +42,7 @@
 **E-mail:** [ana.lucia.cavalcante.sirino@gmail.com](mailto:ana.lucia.cavalcante.sirino@gmail.com)
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ana-sirino-952a8b33b/" target="_blank">
+  <a href="[https://www.linkedin.com/in/ana-sirino-952a8b33b/](https://www.linkedin.com/in/ana-l%C3%BAcia-sirino-551832383/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pretty._.ann3?igsh=MTVlaTU4N3pmbWpyag==" target="_blank">
