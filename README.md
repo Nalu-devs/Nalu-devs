@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=500&color=00f&center=true&vCenter=true&width=440&lines=Sou+a+Ana+Lu;Tecnologia+de+Back+a+Front;Apaixonada+por+inovação"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=500&color=FFB703&center=true&vCenter=true&width=440&lines=Sou+a+Ana+Lu;Tecnologia+de+Back+a+Front;Apaixonada+por+inovação"/>
 </p>
 
 ---
