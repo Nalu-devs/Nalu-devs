@@ -9,7 +9,7 @@
 ---
 
 ### About me
-- Student of **Computer sciencie for the internet**
+- Student of **Computer for internet**
 - Student of **System development** 
 - Focused on **Backend, database e web development**
  
@@ -22,7 +22,7 @@
 ### Curiosities
 - Programmer since **2019** 
 - Technician in **Systems Development (ETEC)**
-- Technician in **Internet Informatics (ETEC)**  
+- Technician in **Computer for internet (ETEC)**  
 - Technician in **Network Security (SENAI)**  
 - Bronze medalist in **OBMEP**
 - Winner of a 100% scholarship for the **Cisco - Network Security** program
