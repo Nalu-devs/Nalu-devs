@@ -1,35 +1,36 @@
 <h1 align="center">
-  Olá, Mundo! Seja bem-vindo ao meu github
+  Hello, word! Welcome to my github
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=500&color=FFB703&center=true&vCenter=true&width=440&lines=Sou+a+Ana+Lu;Tecnologia+de+Back+a+Front;Apaixonada+por+inovação"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=500&color=FFB703&center=true&vCenter=true&width=440&lines=I'm+a+Ana+Lu;Technology+of+Back+to+Front;Passionate+about+innovation"/>
 </p>
 
 ---
 
-### Sobre mim
-- Estudante de **Informática para Internet**
-- Estudante de **Desenvolvimento de sistema** 
-- Focada em **backend, banco de dados e desenvolvimento web**
+### About me
+- Student of **Computer sciencie for the internet**
+- Student of **System development** 
+- Focused on **Backend, database e web development**
  
-### Objetivos:
-- Aprender mais sobre tecnologia e inovação  
-- Desenvolver soluções que impactem o mundo  
-- Ser reconhecida pelo meu trabalho  
-- Evoluir constantemente nessa área  
+### Objectives:
+- Learn more about technology and innovation  
+- Develop solutions that impact the world  
+- Be recognized for my work 
+- Constantly evolve in this field
 
-### Curiosidades
-- Programadora desde **2019**  
-- Técnica em **Desenvolvimento de Sistemas (ETEC)**  
-- Técnica em **Informática para Internet (ETEC)**  
-- Técnica em **Segurança de Redes (SENAI)**  
-- Medalhista de **bronze** na **OBMEP**
-- Vencedora da bolsa 100% do programa da **Cisco - Segurança de rede**
+### Curiosities
+- Programmer since **2019** 
+- Technician in **Systems Development (ETEC)**
+- Technician in **Internet Informatics (ETEC)**  
+- Technician in **Network Security (SENAI)**  
+- Bronze medalist in **OBMEP**
+- Winner of a 100% scholarship for the **Cisco - Network Security** program
+- Technician in **Power BI (SENAI)** 
 
 ---
 
-### Linguagens e Tecnologias
+### Laguagens and Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,cpp,react" />
@@ -37,7 +38,7 @@
 
 ---
 
-### Contato
+### Contact
 
 **E-mail:** [ana.lucia.cavalcante.sirino@gmail.com](mailto:ana.lucia.cavalcante.sirino@gmail.com)
 
