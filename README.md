@@ -26,7 +26,6 @@
 - Technician in **Network Security (SENAI)**  
 - Bronze medalist in **OBMEP**
 - Winner of a 100% scholarship for the **Cisco - Network Security** program
-- Technician in **Power BI (SENAI)** 
 
 ---
 
