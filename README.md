@@ -32,7 +32,7 @@
 ### Laguagens and Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,cpp,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql,java,c,react" />
 </div>
 
 ---
