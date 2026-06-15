@@ -20,7 +20,7 @@
 - Constantly evolve in this field
 
 ### Curiosities
-- Programmer since **2019** 
+- Programmer since **2021** 
 - Technician in **Systems Development (ETEC)**
 - Technician in **Computer for internet (ETEC)**  
 - Technician in **Network Security (SENAI)**  
